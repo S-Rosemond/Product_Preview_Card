@@ -60,7 +60,7 @@ body {
 .content {
   display: flex;
   flex-direction: column;
-  gap: 0.25em;
+  gap: 0.85rem;
   padding: 1.5rem;
 }
 
@@ -79,6 +79,23 @@ body {
 .content__description {
   line-height: 1.5;
   width: 34ch;
+}
+
+.content__button {
+  background-color: var(--clr-dark-cyan);
+  border-radius: 7px;
+  color: var(--clr-white);
+  font-family: var(--font-mont);
+
+  padding: 0.5rem 1rem;
+  text-align: center;
+  transition: background-color 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.content__button_svg {
+  margin-right: 0.5rem;
+  vertical-align: top;
 }
 
 .price {
