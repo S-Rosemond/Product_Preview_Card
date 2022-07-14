@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github Pages](https://s-rosemond.github.io/Product_Preview_Card/src/)
 
 ## My process
 
